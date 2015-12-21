@@ -1,5 +1,5 @@
 ﻿WINLOVER DASHBOARD
-Version 1.2.1
+Version 1.3.0
 by Francesco Tili
 
 
@@ -29,5 +29,5 @@ Concepts, ideas and some graphics: Kaelri, Smurfier, dragonmage, Alex2539, Alex 
 -----------------------
 CHANGELOG
 
-v1.2.1
-- Initial commit
+v1.3.0
+- Modifica del metodo di renderizzazione dei pannelli, predisposizione ai colori
