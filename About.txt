@@ -1,0 +1,33 @@
+﻿WINLOVER DASHBOARD
+Version 1.2.1
+by Francesco Tili
+
+
+-----------------------
+ABOUT
+
+WinLover Dashboard è una dashboard utile per computer Windows e amanti del mondo Microsoft.
+
+Per maggiori informazioni segui il nostro blog http://windowslover.it
+
+
+-----------------------
+CONTATTI
+
+Blog                   http://windowslover.it
+Email                  info@windowslover.it
+
+
+-----------------------
+LICENSE & CREDITS
+
+This software has been released to you under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 License (http://creativecommons.org/licenses/by-nc-sa/3.0/). Enigma contains work by the following people:
+
+Concepts, ideas and some graphics: Kaelri, Smurfier, dragonmage, Alex2539, Alex Becherer, FlyingHyrax, Greg Schoppe, Jeffrey Morley, Jiri Mahel, kenz0, miniority, Zinsho
+
+
+-----------------------
+CHANGELOG
+
+v1.2.1
+- Initial commit
