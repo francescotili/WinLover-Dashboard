@@ -1,12 +1,12 @@
-﻿WINLOVER DASHBOARD
-Version 1.3.0
+﻿EXPERIENCE BY WINDOWS LOVER
+Version 1.0 Beta2
 by Francesco Tili
 
 
 -----------------------
 ABOUT
 
-WinLover Dashboard è una dashboard utile per computer Windows e amanti del mondo Microsoft.
+Experience by Windows Lover è una dashboard utile per computer Windows 10 e amanti del mondo Microsoft.
 
 Per maggiori informazioni segui il nostro blog http://windowslover.it
 
@@ -29,5 +29,10 @@ Concepts, ideas and some graphics: Kaelri, Smurfier, dragonmage, Alex2539, Alex 
 -----------------------
 CHANGELOG
 
-v1.3.0
-- Modifica del metodo di renderizzazione dei pannelli, predisposizione ai colori
+v1.0 Beta2
+- Restyling completo della sezione Impostazioni
+
+v1.0 Beta1
+- Modifica del nome della skin
+- Cambiato il metodo di rilevamento del nome dispositivo, della versione dell'OS
+- Invertito ordine Utilizzo CPU e RAM
